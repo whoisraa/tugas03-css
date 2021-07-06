@@ -1,0 +1,23 @@
+p {
+    background-color: gray;
+    border: solid 1px;
+}
+
+p.first-p {
+    background-color: #c96e00;
+}
+
+p.second-p {
+    background-color: blue;
+    color: white;
+}
+
+p.third-p {
+    background-color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+p.fourth-p {
+    font-weight: bold;
+}
